@@ -6,8 +6,14 @@
 	{"team":"3","num":"1","score":"17"},
 
 	{"team":"4","num":"1","score":"563"},
+	{"team":"4","num":"2","score":"-1392"},
+	{"team":"4","num":"3","score":"-453"},
+	{"team":"4","num":"4","score":"481"},
 
 	{"team":"5","num":"1","score":"-1050"},
+	{"team":"5","num":"2","score":"-27"},
+	{"team":"5","num":"3","score":"-508"},
+	{"team":"5","num":"4","score":"267"},
 
 	{"team":"6","num":"1","score":"-1195"},
 
@@ -20,20 +26,32 @@
 	{"team":"10","num":"1","score":"-711"},
 
 	{"team":"11","num":"1","score":"1103"},
+	{"team":"11","num":"2","score":"306"},
+	{"team":"11","num":"3","score":"306"},
+	{"team":"11","num":"4","score":"-33"},
 	
 	{"team":"12","num":"1","score":"-499"},
 
 	{"team":"13","num":"1","score":"222"},
 	
 	{"team":"14","num":"1","score":"-1083"},
+	{"team":"14","num":"2","score":"283"},
+	{"team":"14","num":"3","score":"455"},
+	{"team":"14","num":"4","score":"-293"},
 
 	{"team":"15","num":"1","score":"605"},
+	{"team":"15","num":"2","score":"1086"},
+	{"team":"15","num":"3","score":"147"},
+	{"team":"15","num":"4","score":"-448"},
 
 	{"team":"16","num":"1","score":"-523"},
 
 	{"team":"17","num":"1","score":"-630"},
 
 	{"team":"18","num":"1","score":"-1401"},
+	{"team":"18","num":"2","score":"-256"},
+	{"team":"18","num":"3","score":"53"},
+	{"team":"18","num":"4","score":"26"},
 
 	{"team":"19","num":"1","score":"555"},
 
